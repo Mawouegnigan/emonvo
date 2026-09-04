@@ -111,5 +111,5 @@ Projet porté par deux co-fondateurs béninois — développement logiciel & IA,
 
 ## Licence
 
-Tous droits réservés — projet en cours de candidature, licence à définir.
+Voir le fichier [LICENSE](LICENSE) — tous droits réservés.
 
