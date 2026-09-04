@@ -5,3 +5,5 @@ build/
 *.pdf
 *.docx
 *.pptx
+yolov8n.pt
+urgence
